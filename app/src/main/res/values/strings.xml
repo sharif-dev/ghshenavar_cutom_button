@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">background_button</string>
+    <string name="button_text">change</string>
+</resources>
